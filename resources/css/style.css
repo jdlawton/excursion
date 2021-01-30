@@ -28,3 +28,8 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+/* Footer Styling */
+.copyright {
+    text-align: right;
+}
